@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\System Pharamacy\System Pharamacy\bin\Debug\System Pharamacy.exe.config
+C:\Users\Lenovo\source\repos\System Pharamacy\System Pharamacy\bin\Debug\System Pharamacy.exe
+C:\Users\Lenovo\source\repos\System Pharamacy\System Pharamacy\bin\Debug\System Pharamacy.pdb
+C:\Users\Lenovo\source\repos\System Pharamacy\System Pharamacy\obj\Debug\System Pharamacy.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\source\repos\System Pharamacy\System Pharamacy\obj\Debug\System_Pharamacy.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\System Pharamacy\System Pharamacy\obj\Debug\System Pharamacy.csproj.GenerateResource.Cache
+C:\Users\Lenovo\source\repos\System Pharamacy\System Pharamacy\obj\Debug\System Pharamacy.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\System Pharamacy\System Pharamacy\obj\Debug\System Pharamacy.exe
+C:\Users\Lenovo\source\repos\System Pharamacy\System Pharamacy\obj\Debug\System Pharamacy.pdb
+C:\Users\Lenovo\source\repos\System Pharamacy\System Pharamacy\obj\Debug\System_Pharamacy.Form2.resources
+C:\Users\Lenovo\source\repos\System Pharamacy\System Pharamacy\obj\Debug\System_Pharamacy.Login.resources
+C:\Users\Lenovo\source\repos\System Pharamacy\System Pharamacy\obj\Debug\System_Pharamacy.receipt.resources
+C:\Users\Lenovo\source\repos\System Pharamacy\System Pharamacy\obj\Debug\System_Pharamacy.Notes.resources
